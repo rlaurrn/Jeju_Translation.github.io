@@ -88,6 +88,7 @@
   - 중·노년층 한국어 방언 데이터 (AI-Hub 제공) : https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71558
   - 카카오 JIT 제주 방언 데이터 (카카오브레인 Github 참조) : https://github.com/kakaobrain/jejueo
   - 생활제주어 데이터 (제주어사전 참조) : https://www.jeju.go.kr/culture/dialect/lifeDialect.htm
+  - Jejueo Single Speaker Speech Dataset : https://www.kaggle.com/datasets/bryanpark/jejueo-single-speaker-speech-dataset
 - 모델 출처
   - Kobart Hugging Face : https://huggingface.co/gogamza/kobart-base-v2
   - Kobart Github : https://github.com/SKT-AI/KoBART
